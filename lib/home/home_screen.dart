@@ -16,7 +16,7 @@ class HomeScreenState extends State<HomeScreen> {
     "Text to PDF",
     "Edit PDF",
     "QR Scanner",
-    "Invoice Generator",
+    "Invoice Gen",
     "Excel Sheet",
     "pptx Slider",
     "Notepad"
